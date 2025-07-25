@@ -16,20 +16,20 @@ To determine variations in panic scores and frequency based on gender, medical h
 ## 📁 Dataset Features
 The dataset includes the following key attributes:
 
-Column Name	             Description
-AGE	                      Age of the patient
-GENDER     	              Gender identity
-CAFFEINE_INTAKE	          Caffeine consumption frequency
-ALCOHOL_CONSUMPTION	      Drinks consumed per week
-SLEEP_HOURS         	    Average hours of sleep
-PANIC_SCORE   	          Computed panic score (severity)
-PANIC_ATTACK_FREQUENCY	  Number of panic attacks per defined period
-MEDICAL_HISTORY	          Patient's psychological background (Anxiety, Depression, PTSD etc.)
+Column Name	        &     Description :
+AGE	                     - Age of the patient,
+GENDER     	             - Gender identity,
+CAFFEINE_INTAKE	         - Caffeine consumption frequency,
+ALCOHOL_CONSUMPTION	     - Drinks consumed per week,
+SLEEP_HOURS         	   - Average hours of sleep,
+PANIC_SCORE   	         - Computed panic score (severity),
+PANIC_ATTACK_FREQUENCY	 - Number of panic attacks per defined period,
+MEDICAL_HISTORY	         - Patient's psychological background (Anxiety, Depression, PTSD etc.),
 CHEST_PAIN, TREMBLING, 
 DIZZINESS, SWEATING, 
-SHORTNESS_OF_BREATH	      Boolean symptom indicators
-TRIGGER_REASON	          Reported cause for panic attacks (e.g., Caffeine, PTSD)
-DURATION_MINUTES	        Duration of panic attack in minutes
+SHORTNESS_OF_BREATH	     - Boolean symptom indicators,
+TRIGGER_REASON	         - Reported cause for panic attacks (e.g., Caffeine, PTSD),
+DURATION_MINUTES	       - Duration of panic attack in minutes.
 
 ## 📈 Key Dashboards & Visuals
 ### 1. Symptoms Analysis
